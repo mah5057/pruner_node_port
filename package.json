@@ -1,0 +1,22 @@
+{
+  "name": "pruner_node_port",
+  "version": "1.0.0",
+  "description": "Node port of pruner script",
+  "main": "main.js",
+  "dependencies": {
+    "request": "~2.67.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mah5057/pruner_node_port.git"
+  },
+  "author": "Matt Hardock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mah5057/pruner_node_port/issues"
+  },
+  "homepage": "https://github.com/mah5057/pruner_node_port#readme"
+}
